@@ -17,3 +17,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Tested build on clean environment
 - Drafted initial implementation plan for v2
+
+## 2026-03-30
+- Checked for memory leaks in long-running path
+- Added healthcheck endpoint stub
