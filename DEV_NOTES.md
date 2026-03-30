@@ -13,3 +13,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-30
 - Documented config options
+
+## 2026-03-30
+- Tested build on clean environment
+- Drafted initial implementation plan for v2
